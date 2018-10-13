@@ -9,6 +9,7 @@ Sample Express REST API
 -- show composable authentication layer
 -- show ability to test controller and REST route
 -- show understanding of other REST method basic setup. PUT/DELETE/CREATE
+-- Show I know how to use git and github
 
 ## Assumptions
 
