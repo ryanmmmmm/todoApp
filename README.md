@@ -27,6 +27,10 @@ T secure under http://
 
 NOTE: These were not done to timebox this exercise.
 
+## Prerequisites
+
+You must have a node environment installed.  Easy enough to Google that I will not go into that here.
+
 ## Downloading
 
 Run this:
