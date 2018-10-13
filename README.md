@@ -29,8 +29,13 @@ NOTE: These were not done to timebox this exercise.
 
 ## Downloading
 
+Run this:
 
-##Running
+`git clone git@github.com:ryanmmmmm/todoApp.git`
+
+cd into todoApp folder
+
+## Running
 Run this is project root folder:
 
 `npm install`
