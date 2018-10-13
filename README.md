@@ -7,8 +7,8 @@ Sample Express REST API
 * Timeboxed exercise at 3 to 3.5 hours to show velocity
 * Show understanding of express structure
 * show composable authentication layer
-* show ability to test controller and REST route
-* show understanding of other REST method basic setup. PUT/DELETE/CREATE
+* show ability to test a model function
+* show understanding of other REST method basic setup even tho not implemented. PUT/DELETE/CREATE
 * Show I know how to use git and github
 
 ## Assumptions
