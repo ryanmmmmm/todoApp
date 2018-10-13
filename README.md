@@ -58,11 +58,14 @@ Note: basic auth is ryan:password for username:password converted to basic auth 
   -H 'authorization: Basic cnlhbjpwYXNzd29yZA==' \
   -H 'cache-control: no-cache'`
 
-  curl -X GET \
-  http://localhost:3000/todos/1 \
+`curl -X GET \
+  http://localhost:3000/todos \
   -H 'authorization: Basic cnlhbjpwYXNzd29yZA==' \
-  -H 'cache-control: no-cache' \
-  -H 'postman-token: 672e76be-1f41-f92c-46f0-2c24747e5ae5'
+  -H 'cache-control: no-cache'`
 
 ##Testing
+
+Run this in the root folder:
+
+`npm test`
 
